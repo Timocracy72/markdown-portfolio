@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+## Timothy Martin
+St. Louis, MO
+### Programmer
+ColdFusion, IBM/Lotus Notes, Javascript, React, Java
